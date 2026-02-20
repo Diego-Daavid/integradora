@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Control de Materiales</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <img src="{{ url_for('static', filename='img/logo.jpg') }}" width="50" alt="Logo">
+            <div class="header-text">
+                <h1>Sistema de Control de Materiales</h1>
+                <p>Proyecto Integrador II - 7EE2</p>
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <a href="{{ url_for('index') }}">Inicio</a>
+        <a href="{{ url_for('materiales') }}">Materiales</a>
+        <a href="{{ url_for('usuarios') }}">Usuarios</a>
+        <a href="{{ url_for('prestamos') }}">Prestamos</a>
+        <a href="{{ url_for('pagos') }}">Pagos</a>
+        <a href="{{ url_for('geolocalizacion') }}">Geolocalizacion</a>
+    </nav>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>
+
