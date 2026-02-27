@@ -218,6 +218,9 @@ Expone tres endpoints de API REST y una interfaz visual para probarlos:
 | `/api/v1/geolocalizacion/direccion` | POST | Coordenadas a partir de una dirección de texto |
 | `/api/v1/clima/actual` | GET | Clima actual dado latitud y longitud |
 
+### capturas de pantalla
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/b3dd993e-5672-47cb-bbd8-8027c0389c7f" />
+
 ---
 
 ## Equipo de desarrollo
