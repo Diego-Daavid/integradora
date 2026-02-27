@@ -220,6 +220,13 @@ Expone tres endpoints de API REST y una interfaz visual para probarlos:
 
 ### capturas de pantalla
 <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/b3dd993e-5672-47cb-bbd8-8027c0389c7f" />
+<img width="1600" height="727" alt="image" src="https://github.com/user-attachments/assets/65d9a6ee-a58f-4484-b2cb-b8ace83a7e21" />
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/69ce2981-f3d9-42b8-aa2b-62eaf031e942" />
+<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/d0faefe4-88bb-4dd0-ae0a-cf1a1ade01ce" />
+<img width="1136" height="729" alt="image" src="https://github.com/user-attachments/assets/5b1d0a6b-729c-4f86-ad6e-4915bdbc9f1d" />
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/f147cd67-0bfe-431a-9a8d-27f511c17743" />
+<img width="1600" height="790" alt="image" src="https://github.com/user-attachments/assets/b8ec5ea4-9e97-4421-9b93-286b58656164" />
+<img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/258f02db-6d65-4af2-9cac-c70b6c72a94c" />
 
 ---
 
